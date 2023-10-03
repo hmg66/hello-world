@@ -1,2 +1,1 @@
-# hello-world
-A short little project for college
+This program asks the user for both their name and age. After both inputs are recieved the program concatenates both values and shows them in the console. 
