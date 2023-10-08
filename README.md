@@ -1,1 +1,1 @@
-This program asks the user for both their name and age. After both inputs are recieved the program concatenates both values and shows them in the console. 
+This program asks the user for both their name and age. After both inputs are recieved the program concatenates both values and shows them in the console. It also asks for what car they drive, and determines if it is a good or bad car (using the random function). 
