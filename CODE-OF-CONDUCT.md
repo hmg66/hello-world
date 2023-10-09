@@ -1,4 +1,6 @@
-Code of Conduct for hello-world
+# Code of Conduct for hello-world
+
+## Summary
 
 hello-world is an open-source project made by some of the most wonderful University of Pittsburgh Computer Science students. We, as students,
 use this repository in order to complete assignments in a timely, orderly fashion. We take pride in our work and we expect accountability from
@@ -6,6 +8,8 @@ all parties that participate in this repository. We expect a discrimination-free
 in this repository. 
 
 We uphold standards for all contributors to this repository and expect each contributor to withold our standards listed herein. 
+
+## Behavior
 
 Examples of acceptable behavior include: accepting accountability for bad actions taken while proactively learning from them, respectfully
 demonstrating leadership to all contributors throughout, prioritizing the community in decisions over personal interest, constructively giving
@@ -18,11 +22,15 @@ a contributors action(s) are deemed as unacceptable behavior, enforcement rules 
 
 These standards apply for all contributors in this repository with no except, even when outside of the repository. 
 
+## Enforcement
+
 Enforcement actions for unacceptable behavior can include: correction of a contributors mistakes, a written warning and corrective action, and/or
 termination from the repository. 
 
 Enforcement actions may vary depending on the severity of a contributor's infraction. Each enforcement action will not be biased - all contributors
 of this repository will be treated fairly and respectfully.
+
+## Questions
 
 If you have a question about the Code of Conduct, or would like to report another contributor for breaking the Code of Conduct, please contact
 our Repository Leaders as soon as possible.
